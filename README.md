@@ -4,6 +4,7 @@
 ## Usage
 * You must create a what3words account to obtain an API key. This must be places into the key.config file.
 * The requirements for this program are click and what3words. These can be installed with `pip install -r requirements.txt`
+* A Python version of 3.8.2 was used during development, any version above 3.6 will work as expected.
 
 To run the program use `python3 3c.py <options> w1 w2 w3`
 #### Example

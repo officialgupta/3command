@@ -1,3 +1,2 @@
-3command
-what3words==3.1.1
-click==7.0
+what3words>3
+click
